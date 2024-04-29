@@ -1,2 +1,1 @@
-# backSimpleMicroserviceJWT
 # backSimpleMicroserviceBasicJWT-BD
